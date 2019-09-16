@@ -2,6 +2,7 @@
 /x64
 /img_process/Debug
 /img_process/Release
+/img_process/x64/Debug
 /img_process/x64/Debug/cnn.tlog
 img_process.opensdf
 img_process.sdf
